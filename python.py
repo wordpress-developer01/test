@@ -1,1 +1,22 @@
-https://gist.github.com/codecademydev/8d13449ea19965ba4d269a68e3065efb
+# Full name: John Smith
+# Fun fact: I can solve a Rubik's cube in under 30 seconds.
+
+# First initial: A
+print("  A  ")
+print(" A A ")
+print("AAAAA")
+print("A   A")
+print("A   A")
+print("A   A")
+print("A   A")
+
+print()
+
+# Second initial: B
+print("BBBB ")
+print("B   B")
+print("B   B")
+print("BBBB ")
+print("B   B")
+print("B   B")
+print("BBBB ")
